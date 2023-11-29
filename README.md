@@ -75,7 +75,7 @@ git branch Otchet
     ![](https://github.com/RaElick/LR6/blob/Otchet/photo/git-branch%20-d.png?raw=true)
 11. git reset --hard - откат коммита <br>
     ![](https://github.com/RaElick/LR6/blob/Otchet/photo/git-reset%20--hard.png?raw=true)
-12. git log -v - просмотр автора и времени изменений <br>
+12. git log --pretty - просмотр автора и времени изменений <br>
     ![](https://github.com/RaElick/LR6/blob/Otchet/photo/git-log%20--prety.png?raw=true)
 
 ## Вывод
